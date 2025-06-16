@@ -1,0 +1,38 @@
+[
+  {
+    "event_id": "E1000",
+    "event_type": "cancel",
+    "customer_id": "C11",
+    "event_timestamp": "2024-05-04T15:00:00Z",
+    "payment_method": "Credit Card",
+    "product_id": "P1016",
+    "product_category": "Electronics",
+    "amount": 0,
+    "location": "Bangalore",
+    "status": "Cancelled"
+  },
+  {
+    "event_id": "E1001",
+    "event_type": "cancel",
+    "customer_id": "C1",
+    "event_timestamp": "2024-05-20T17:00:00Z",
+    "payment_method": "Credit Card",
+    "product_id": "P1018",
+    "product_category": "Groceries",
+    "amount": 0,
+    "location": "Kolkata",
+    "status": "Cancelled"
+  },
+  {
+    "event_id": "E1002",
+    "event_type": "cancel",
+    "customer_id": "C10",
+    "event_timestamp": "2024-05-24T20:00:00Z",
+    "payment_method": "Cash",
+    "product_id": "P1002",
+    "product_category": "Electronics",
+    "amount": 0,
+    "location": "Mumbai",
+    "status": "Cancelled"
+  }
+]
